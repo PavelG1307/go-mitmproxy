@@ -3,7 +3,7 @@
 [简体中文](./README_CN.md)
 
 `go-mitmproxy` is a Golang implementation of [mitmproxy](https://mitmproxy.org/) that supports man-in-the-middle attacks and parsing, monitoring, and tampering with HTTP/HTTPS traffic.
-
+ 
 ## Key features
 
 - Parses HTTP/HTTPS traffic and displays traffic details via a [web interface](#web-interface).
